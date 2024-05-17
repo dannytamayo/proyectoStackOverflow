@@ -28,3 +28,11 @@ Esta aplicación es una plataforma de preguntas y respuestas similar a StackOver
 ### Instalación
 1. **Clona el repositorio:**
 https://github.com/dannytamayo/proyectoStackOverflow
+2. **Instala las dependencias de PHP:**
+composer install
+3. **Configura el archivo de entorno:**
+- Copia el archivo `.env.example` a `.env`
+- Configura los ajustes de tu base de datos en el archivo `.env`
+4. **Ejecuta las migraciones:**
+php artisan migrate
+
