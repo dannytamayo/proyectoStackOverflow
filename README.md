@@ -13,7 +13,7 @@ Desarrollé una plataforma de preguntas y respuestas similar a StackOverflow, or
 - **📱 Diseño Responsivo:** Optimizado para diversos dispositivos y tamaños de pantalla.
 
 ## 🛠️ Pila Tecnológica
-- **💻 Frontend:** HTML, CSS, JavaScript (con librerías como Vue.js o React.js según sea necesario)
+- **💻 Frontend:** HTML, CSS, JavaScript
 - **🔧 Backend:** PHP, Laravel
 - **💾 Base de Datos:** MySQL
 - **🔀 Control de Versiones:** Git
